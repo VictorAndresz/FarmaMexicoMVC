@@ -9,6 +9,9 @@
     <meta name="description" content="Aplikasi Persediaan Obat pada Apotek">
     <meta name="author" content="Indra Styawantoro" />
 
+
+    <script src="/jquery-2.1.3.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+
     <!-- favicon -->
     <link rel="shortcut icon" href="assets/img/favicon.png" />
 
